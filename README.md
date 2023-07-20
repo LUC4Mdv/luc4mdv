@@ -2,5 +2,4 @@
 
 ![hacker-zueirokk](https://github.com/LUC4Mdv/luc4mdv/assets/136206047/f760b3bd-307c-48f2-bed5-b090ded8d46a)
 ![hacker-zueirokk](https://github.com/LUC4Mdv/luc4mdv/assets/136206047/f760b3bd-307c-48f2-bed5-b090ded8d46a)
-![hacker-zueirokk](https://github.com/LUC4Mdv/luc4mdv/assets/136206047/f760b3bd-307c-48f2-bed5-b090ded8d46a)
 
