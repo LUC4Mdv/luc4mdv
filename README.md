@@ -8,7 +8,7 @@
 <img width="50%" height="205px" src="https://github-readme-stats.vercel.app/api?username=LUC4Mdv&show_icons=true&locale=pt-br&count_private=true&hide_border=true&hide_rank=true&title_color=DCDCDC&icon_color=6A5ACD&text_color=DCDCDC&bg_color=0d1117" /><img width="50%" height="190px" src="https://github.com/LUC4Mdv/luc4mdv/assets/136206047/f760b3bd-307c-48f2-bed5-b090ded8d46a">
 </div>
 
-## 
+##
 
 <br>
 <div>
