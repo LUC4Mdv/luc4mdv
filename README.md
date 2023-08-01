@@ -1,4 +1,4 @@
- <div align="center" style="text-align:center">
+<div align="center" style="text-align:center">
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+One&weight=900&pause=1000&color=DCDCDC&repeat=false&width=300&lines=Ol%C3%A1%2C+eu+sou+o+Lucam!+🤓)](https://git.io/typing-svg)
   
